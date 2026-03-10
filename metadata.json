@@ -1,0 +1,7 @@
+{
+  "name": "Accounting Solver AI",
+  "description": "AI-powered accounting solution platform for Bangladeshi SSC and HSC students. Solve questions from images or text in Bangla.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
